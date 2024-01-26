@@ -1,13 +1,13 @@
 {
-    "name": "H4CKINTO",
+    "name": "4CKxddINTO",
     "version": "1.0.0",
-    "description": "H4CKINTO - Remote Android Spying Tool",
+    "description": "CKINTO - Remo",
     "main": "index.js",
     "scripts": {
         "start": "node server/index.js",
         "test": "node server/index.js"
     },
-    "author": "Piyush Banik",
+    "author": "Piyxdehush Banik",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.19.0",
